@@ -1,2 +1,2 @@
-# sw_gui
+# swcfg
 Program do konfiguracji wielu przełączników sieciowych
